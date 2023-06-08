@@ -1,0 +1,4 @@
+{
+   "python.terminal.activateEnvInCurrentTerminal": true,
+   "python.defaultInterpreterPath": "/Users/jessegansler/Documents/_Projects/llm/env/bin/python",
+}

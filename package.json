@@ -1,0 +1,12 @@
+{
+  "name": "llm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://jgansl@github.com/jgansl/llm.git",
+  "author": "jganstf <jesse@temperandforge.com>",
+  "license": "MIT",
+  "scripts": {
+    "src": "echo 'source env/bin/activate'",
+    "jupyter": "python -m jupyter notebook"
+  }
+}
